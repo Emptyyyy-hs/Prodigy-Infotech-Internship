@@ -1,5 +1,5 @@
 ##Internship projects for Prodigy Infotech ##
-Prodigy-Infotech-Internship
+#Prodigy-Infotech-Internship#
 Week 01 - Interactive navigation menu
 Week 02 - Stopwatch web Application
 Week 03 - Tic-Tac-Toe Web application
