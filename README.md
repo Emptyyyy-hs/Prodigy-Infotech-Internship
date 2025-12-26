@@ -1,7 +1,12 @@
-##Internship projects for Prodigy Infotech ##
-#Prodigy-Infotech-Internship#
-Week 01 - Interactive navigation menu
-Week 02 - Stopwatch web Application
-Week 03 - Tic-Tac-Toe Web application
-Week 04 - Personal portfolio website
-Week 05 - Weather Forecast Website 
+# Prodigy Infotech Internship Projects
+
+This repository contains all the projects completed during my internship at **Prodigy Infotech**.
+
+## Weekly Projects
+
+- **Week 01:** Interactive Navigation Menu  
+- **Week 02:** Stopwatch Web Application  
+- **Week 03:** Tic-Tac-Toe Web Application  
+- **Week 04:** Personal Portfolio Website  
+- **Week 05:** Weather Forecast Website  
+
