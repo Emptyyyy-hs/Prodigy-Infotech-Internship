@@ -1,6 +1,6 @@
 <p align="center">
-  Precision Pro Stopwatch.
-  High-performance stopwatch application built with React and Tailwind CSS.
+  #Precision Pro Stopwatch.
+  #High-performance stopwatch application built with React and Tailwind CSS.
 </p>
 
 <p align="center">
