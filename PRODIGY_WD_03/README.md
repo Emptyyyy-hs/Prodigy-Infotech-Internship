@@ -1,19 +1,62 @@
 # Pro Tic-Tac-Toe Studio
 
-A professional-grade, high-performance Tic-Tac-Toe application built for smooth local multiplayer gameplay.
+A modern, feature-rich Tic-Tac-Toe web application built with React, Tailwind CSS, and modern JavaScript. Designed with polished animations, responsive gameplay, and an engaging user experience.
 
-## 🚀 Built With
-- **HTML5 & CSS3**: Structured and styled with modern standards.
-- **Tailwind CSS**: For a responsive and high-fidelity utility-first design.
-- **TypeScript**: Ensuring robust, type-safe application logic.
-- **React**: Powering the reactive UI and state management.
+## Features
 
-## ✨ Features
-- **Local Multiplayer**: Play as X or O with personalized names.
-- **Dynamic Board Skins**: Choose from 8 unique visual styles including Glass, Neon, Cyber, and Retro.
-- **Personalized Aesthetics**: Custom colors for markers and multiple typography choices.
-- **Win Animations**: High-quality confetti and pulse effects on victory.
-- **Score Tracking**: Persistent scoreboard for the current game session.
+- Interactive Gameplay: Classic Tic-Tac-Toe experience with responsive controls.
+- Win Detection System: Automatically identifies winning combinations and draw conditions.
+- Animated Interface: Smooth transitions, cell animations, and visual effects.
+- Victory Celebrations: Confetti effects and winning highlights.
+- Responsive Design: Optimized for desktop, tablet, and mobile devices.
+- Modern UI: Professional styling with custom typography and visual feedback.
+- Lightweight Architecture: Fast and efficient client-side implementation.
 
-## 🛠 Usage
-Simply open the application in any modern web browser to start a match. All game logic runs locally on the client side.
+## Technical Specifications
+
+- Language: TypeScript / JavaScript (ES6+)
+- Framework: React 19
+- Styling: Tailwind CSS
+- Effects: Canvas Confetti
+- Fonts: Inter, Playfair Display, JetBrains Mono, Bungee
+- Architecture: Single-Page Application
+
+## How to Run
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## Core Functionality
+
+- Two-player Tic-Tac-Toe gameplay.
+- Real-time win and draw detection.
+- Animated game board interactions.
+- Visual feedback for winning moves.
+- Instant game reset and replay functionality.
+
+## Performance Notes
+
+- Fully client-side application
+- No backend required
+- No database required
+- No authentication required
+- No API keys or environment variables required
+
+## License
+
+This project is available for educational, personal, and portfolio use.
