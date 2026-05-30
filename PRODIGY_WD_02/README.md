@@ -12,8 +12,8 @@
 <h2 align="center">Screenshots</h2>
 
 <p align="center">
-<img width="1280" height="760" alt="Screenshot (1283)" src="https://github.com/user-attachments/assets/92ba3d90-2af4-4192-b347-7fa24ed3e8e0" width="45%" alt="Screenshot 2">
-  <img src="https://github.com/user-attachments/assets/acf1d458-caa5-4e6c-b511-6c347732db1a" width="45%" alt="Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/92ba3d90-2af4-4192-b347-7fa24ed3e8e0" width="45%" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/bec06fc1-f85a-4ff7-b96a-9d342b49abd1" width="45%" alt="Screenshot 3">
 </p>
 
 # Precision Pro Stopwatch
