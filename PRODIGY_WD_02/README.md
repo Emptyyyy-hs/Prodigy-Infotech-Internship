@@ -1,4 +1,5 @@
- ##Precision Pro Stopwatch.
+ #Precision Pro Stopwatch.
+ 
 <p align="center">
   #High-performance stopwatch application built with React and Tailwind CSS.
 </p>
