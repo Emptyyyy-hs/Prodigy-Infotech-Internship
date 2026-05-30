@@ -1,3 +1,22 @@
+# Precision Pro Stopwatch
+
+<p align="center">
+  <img width="1280" height="768" alt="Screenshot (1281)" src="https://github.com/user-attachments/assets/5a1a1171-5066-4420-a7c8-6e1af80dcc31" />
+"Precision Pro Stopwatch" width="900">
+</p>
+
+<p align="center">
+  High-performance stopwatch application built with React and Tailwind CSS.
+</p>
+
+<h2 align="center">Screenshots</h2>
+
+<p align="center">
+ <img width="1280" height="762" alt="Screenshot (1282)" src="https://github.com/user-attachments/assets/fe474849-5d4a-4352-acb2-383265b01e53" />
+"Lap Recording" width="45%">
+ <img width="1280" height="760" alt="Screenshot (1283)" src="https://github.com/user-attachments/assets/aafa4bbf-95bd-4194-92b4-61bc34be173d" />
+"Timer Interface" width="45%">
+</p>
 
 
 
