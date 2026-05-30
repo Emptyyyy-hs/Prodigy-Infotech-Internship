@@ -1,40 +1,20 @@
- #Precision Pro Stopwatch.
- 
+<h1 align="center">Precision Pro Stopwatch</h1>
+
 <p align="center">
-  #High-performance stopwatch application built with React and Tailwind CSS.
+  High-performance stopwatch application built with React and Tailwind CSS.
 </p>
 
 <p align="center">
-  <img width="1280" height="768" alt="Screenshot (1281)" src="https://github.com/user-attachments/assets/2469fb21-c614-40c4-ab6d-6eb8123abcd5"
- width="900" alt="Main Preview">
+ <img width="1280" height="768" alt="Screenshot (1281)" src="https://github.com/user-attachments/assets/a0db804f-527f-4eaa-ad1f-4825642f0c0c"  width="900" alt="Main Preview"> 
+
 </p>
 
 <h2 align="center">Screenshots</h2>
 
 <p align="center">
- <img width="1280" height="760" alt="Screenshot (1283)" src="https://github.com/user-attachments/assets/b798a467-8448-4dca-9c4b-bd805b13020d" width="45%" alt="Screenshot 2">
-  <img width="1280" height="762" alt="Screenshot (1282)" src="https://github.com/user-attachments/assets/62d735a9-5709-4252-8395-1040bf73ae26" 
-width="45%" alt="Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/967786d9-8176-4986-bc91-52c8dc00a674" width="45%" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/acf1d458-caa5-4e6c-b511-6c347732db1a" width="45%" alt="Screenshot 3">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Precision Pro Stopwatch
 
