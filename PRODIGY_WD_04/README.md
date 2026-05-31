@@ -2,6 +2,20 @@ a personal portfolio website that showcases your skills, projects, and accomplis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Personal Portfolio Website
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Designed to showcase projects, technical skills, and professional experience through an interactive and visually engaging user interface.
@@ -57,39 +71,9 @@ npm run build
 - Mediscan
 - Contact
 
-## Project Structure
-
-```text
-src/
-├── components/
-│   ├── Hero.tsx
-│   ├── About.tsx
-│   ├── Skills.tsx
-│   ├── Projects.tsx
-│   ├── AIAssistant.tsx
-│   ├── Mediscan.tsx
-│   ├── Contact.tsx
-│   └── Navbar.tsx
-├── App.tsx
-└── main.tsx
-```
-
-## Deployment
-
-This project can be deployed directly to:
-
-- GitHub Pages
-- Netlify
-- Vercel
-- Cloudflare Pages
-
 ## Performance Notes
 
 - Fully client-side application
 - Responsive across modern browsers
 - Optimized component-based architecture
 - Fast build and deployment workflow
-
-## License
-
-This project is available for educational, personal, and portfolio purposes.
